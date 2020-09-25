@@ -1,5 +1,8 @@
 # DMon - Process Monitoring With Style
 
+This is a fork of the original [dmon](https://github.com/aperezdc/dmon) which
+builds against GCC 4.7.
+
 [![builds.sr.ht status](https://builds.sr.ht/~aperezdc/dmon/commits.svg)](https://builds.sr.ht/~aperezdc/dmon/commits?)
 
 This README contains only some random bits. For more in-depth writing, you
