@@ -1,5 +1,5 @@
 MULTICALL = 1
-CFLAGS    = -Os -g -Wall -W
+CFLAGS    = -Os -g -Wall -W -std=gnu99
 PREFIX    = /usr/local
 RST2MAN   = rst2man
 RM        = rm -f
